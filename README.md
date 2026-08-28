@@ -2,10 +2,13 @@
 
 Before the session, there are only a couple of things to take care of. For access to the platform, please create an account at https://kaledge.kaleidoforge.com/ to get access.
 
-## Artifacts
+## Tutorial Material
 
 - **Tutorial Content**: `FastML2026_kalEdge.html`
 - **Presentation**: `FastML2026-tutorial.html`
+
+## Artifacts
+
 - **IP Cores**
 - **Models**
 - **.xsa File**
