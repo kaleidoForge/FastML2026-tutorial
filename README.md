@@ -14,7 +14,7 @@ Before the session, there are only a couple of things to take care of. For acces
 
 ## Hyper FPGA files
 
-(Hyper FPGA files description)
+- **Jupyter Notebook**
 
 
 - **Tutorial Content**: `FastML2026_kalEdge.html`
