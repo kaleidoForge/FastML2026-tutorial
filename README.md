@@ -4,17 +4,18 @@ Before the session, there are only a couple of things to take care of. For acces
 
 ## Artifacts
 
-- **Contenido del tutorial**: `FastML2026_kalEdge.html`
-- **Presentación**: `FastML2026-tutorial.html`
 - **IP Cores**
-- **Modelos**
-- **Archivo .xsa**
+- **Models**
+- **.xsa File**
 
 ## Dataset
 
-The dataset used in this tutorial is publicly available on Zenodo. If you use it, please cite:
-> Ballina Escobar, M. G., & Molina, R. S. (2026). Dataset of Scintillation Pulses for Pile-up Event Discrimination [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.22110114
+(Dataset description)
 
 ## Hyper FPGA files
 
-(Descripción de los archivos Hyper FPGA)
+(Hyper FPGA files description)
+
+
+- **Tutorial Content**: `FastML2026_kalEdge.html`
+- **Presentation**: `FastML2026-tutorial.html`
