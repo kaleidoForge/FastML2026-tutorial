@@ -3,6 +3,8 @@
 
 Before the session, there are only a couple of things to take care of. For access to the platform, please create an account at https://kaledge.kaleidoforge.com/ to get access.
 
+Legacy: https://kaledge-v0-324344612713.europe-west1.run.app/login
+
 ## Tutorial Material
 
 - **Tutorial Content**: `FastML2026_kalEdge.html`
