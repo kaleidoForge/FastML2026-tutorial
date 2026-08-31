@@ -1,4 +1,5 @@
-# FastML2026 - Tutorial
+# FastML2026 - KalEdge Tutorial
+
 
 Before the session, there are only a couple of things to take care of. For access to the platform, please create an account at https://kaledge.kaleidoforge.com/ to get access.
 
