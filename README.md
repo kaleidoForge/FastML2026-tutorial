@@ -7,8 +7,8 @@ Legacy: https://kaledge-v0-324344612713.europe-west1.run.app/login
 
 ## Tutorial Material
 
-- **Tutorial Content**: `FastML2026_kalEdge.html`
-- **Presentation**: `FastML2026-KalEdge-presentation.html`
+- **Tutorial Content**: `tutorial-material/FastML2026_kalEdge_tutorial.html`
+- **Presentation**: `tutorial-material/FastML2026_KalEdge.html`
 
 ## Artifacts
 
