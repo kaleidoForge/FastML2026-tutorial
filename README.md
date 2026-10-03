@@ -18,7 +18,7 @@ Before the session, there are only a couple of things to take care of. For acces
 ## Dataset
 
 The dataset used in this tutorial is publicly available on Zenodo. If you use it, please cite:
-> Ballina Escobar, M. G., & Molina, R. S. (2026). Dataset of Scintillation Pulses for Pile-up Event Discrimination [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.22110114
+> Ballina Escobar, M. G., et al. (2026). Dataset of Scintillation Pulses for Pile-up Event Discrimination [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.22110114
 
 
 ## HyperFPGA 
